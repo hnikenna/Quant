@@ -1,4 +1,4 @@
- import MetaTrader5 as mt5
+import MetaTrader5 as mt5
 from time import sleep
 
 # Initialize connection to MetaTrader 5
